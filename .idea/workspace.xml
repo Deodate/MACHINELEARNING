@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0971c250-031c-4315-810b-684caf8b6275" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/bigDataProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bigData/bigData/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bigData/bigData/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bigData/bigData/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bigData/bigData/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bigData/bigData/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bigData/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
