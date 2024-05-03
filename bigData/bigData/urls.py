@@ -20,5 +20,8 @@ from bigData.bigData import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path("", views.home)
+    path("", views.home),
+    path("prediction/", views.prediction),
+    path("prediction/result", views.result),
+
 ]

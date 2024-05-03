@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0971c250-031c-4315-810b-684caf8b6275" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/bigData/bigData/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bigData/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bigData/static/DiabetsPrediction/images/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bigData/static/DiabetsPrediction/images/img1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bigData/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigData/templates/prediction.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bigData/bigData/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/bigData/bigData/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bigData/bigData/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/bigData/bigData/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigData/bigData/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/bigData/bigData/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigData/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/bigData/templates/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -48,9 +45,14 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bigData/static/DiabetsPrediction/images" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -68,6 +70,17 @@
       <updated>1714741471765</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
